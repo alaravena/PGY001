@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: rgb(255,55,99);
+    text-align: center;
+    text-shadow: 2px 2px brown;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+span {
+    border: 5px solid #FFF;
+    border-color: #2c258b;
+    border-color: #2c258b44;
+    outline: solid #00CC00 2px;
+}
+
+#tit-principal {
+    text-decoration: line-through;
+    color: cornflowerblue;
+    text-shadow: 2px 2px #FFF;
+}
+
+a {
+    text-decoration: none;
+    color: rebeccapurple;
+    text-transform: uppercase;
+}
+
+.a-lorem {
+    text-transform: capitalize;
+    color: brown;
+}
+
+p {
+    text-align: justify;
+    letter-spacing: 2px;
+    font-size: 20px;
+    line-height: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: ;
+}
