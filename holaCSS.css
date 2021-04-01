@@ -2,6 +2,10 @@
 
 body {
     background-color: powderblue;
+    background-image: url('https://previews.123rf.com/images/lorasutyagina/lorasutyagina1705/lorasutyagina170500041/79056769-bright-colored-eggs-on-the-white-background-seamless-scratched-pattern-simple-abstract-texture-for-d.jpg');
+    background-size: 100px;
+    background-repeat: repeat-y;
+    background-position: center;
 }
 
 h1 {
@@ -41,5 +45,29 @@ p {
     font-size: 20px;
     line-height: 24px;
     font-family: 'Courier New', Courier, monospace;
-    font-family: ;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    border-radius: 100px;
+}
+
+div {
+    background-color: brown;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 20px;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+    width: 400px;
+    margin: 15px auto;
 }
